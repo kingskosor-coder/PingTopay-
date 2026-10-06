@@ -1,0 +1,7 @@
+{
+  "name": "PingTopay - WhatsApp & Telegram AI Sales Automation SaaS",
+  "description": "Multi-tenant AI sales agent platform turning WhatsApp and Telegram conversations into automated sales with Paystack payments for African businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
